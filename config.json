@@ -1,0 +1,6 @@
+{
+  "dsKey": "",
+  "dsUrl": "https://api.darksky.net/forecast/",
+  "mapKey": "",
+  "mapUrl": "https://www.mapquestapi.com/geocoding/v1/address?inFormat=kvp&outFormat=json&thumbMaps=false&key="
+}
